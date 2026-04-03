@@ -1,6 +1,0 @@
-{
-  "has_realized": false,
-  "n_funds_with_sharpe": 0,
-  "funds": [],
-  "methodology": "No NAV loaded: add --nav-csv with fund_no,as_of,nav (optional annual_turnover). Public web does not provide reliable bulk private-fund NAV."
-}
