@@ -1,0 +1,6 @@
+fund_no,as_of,nav,source,annual_turnover
+DEMO01,2024-01-01,1.00,demo,32
+DEMO01,2024-04-01,1.045,demo,32
+DEMO01,2024-07-01,1.08,demo,32
+DEMO01,2024-10-01,1.12,demo,32
+DEMO01,2025-01-01,1.15,demo,32

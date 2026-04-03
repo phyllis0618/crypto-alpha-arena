@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "disclaimer": "Illustrative regional multi-manager archetypes for framework benchmarking — not firm-specific disclosures.",
+  "regions": [
+    {
+      "region_code": "CN_A_SHARE",
+      "label": "China A-share quant (retail-structured)",
+      "archetype": "Domestic index enhancement / stat-arb on imperfect markets",
+      "assumed_annual_turnover": 35.0,
+      "assumed_sharpe_net": 1.35,
+      "factor_emphasis": ["size_tilt_small", "short_term_reversal", "retail_flow_proxies"],
+      "liquidity_tier": "variable_thin_small_cap",
+      "capacity_headroom_vs_us_large_cap": "low_for_high_turnover"
+    },
+    {
+      "region_code": "US_MULTI_MANAGER",
+      "label": "US global multi-manager / stat-arb (Citadel EQR-style archetype)",
+      "archetype": "Low-latency OB, alt data fusion, tight risk neutralization",
+      "assumed_annual_turnover": 55.0,
+      "assumed_sharpe_net": 1.55,
+      "factor_emphasis": ["order_book_microstructure", "alternative_data", "cross_sectional_stat_arb"],
+      "liquidity_tier": "deep_tob_us_liquidity",
+      "capacity_headroom_vs_us_large_cap": "medium_high_but_competitive"
+    },
+    {
+      "region_code": "APAC_JP",
+      "label": "Japan cash equity quant (liquid, efficient)",
+      "archetype": "Lower retail noise, tighter spreads on large caps; capacity in TOPIX names",
+      "assumed_annual_turnover": 18.0,
+      "assumed_sharpe_net": 1.1,
+      "factor_emphasis": ["low_vol_carry", "quality_momentum_blend"],
+      "liquidity_tier": "deep_but_efficient",
+      "capacity_headroom_vs_us_large_cap": "high_liquidity_low_edge"
+    },
+    {
+      "region_code": "APAC_IN",
+      "label": "India cash equity quant (mid/small liquidity wall)",
+      "archetype": "Higher impact costs; alpha often mid/small tilt",
+      "assumed_annual_turnover": 28.0,
+      "assumed_sharpe_net": 1.05,
+      "factor_emphasis": ["momentum_quality", "midcap_liquidity_skew"],
+      "liquidity_tier": "patchy_outside_top_names",
+      "capacity_headroom_vs_us_large_cap": "constrained"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "amac": {
+    "source": "amac_pof_fund_async",
+    "managerName": "上海衍复投资管理有限公司",
+    "totalPagesReported": 2418,
+    "pagesScanned": 2,
+    "maxPagesCap": 2,
+    "fundCount": 2,
+    "funds": [
+      {
+        "fundName": "衍复兴泰中证全指2号私募证券投资基金",
+        "fundNo": "SARL31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774483200000,
+        "establishDate": 1773100800000,
+        "mandatorName": "华泰证券股份有限公司",
+        "managerName": "上海衍复投资管理有限公司",
+        "url": "2603261527106523.html",
+        "_amacPage": 1
+      },
+      {
+        "fundName": "衍复博裕中证全指指数增强E期私募证券投资基金",
+        "fundNo": "SAZU44",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774483200000,
+        "establishDate": 1773792000000,
+        "mandatorName": "中信证券股份有限公司",
+        "managerName": "上海衍复投资管理有限公司",
+        "url": "2603261527106857.html",
+        "_amacPage": 1
+      }
+    ]
+  },
+  "yanfu_site": {
+    "source": "yanfu_official_consult_async",
+    "url": "https://yanfuinvestments.com/consult",
+    "announcementCount": 10,
+    "announcements": [
+      {
+        "date": "2024-07-12",
+        "title": "关于上海衍复投资管理有限公司微信公众号名称的公告"
+      },
+      {
+        "date": "2024-03-25",
+        "title": "关于提示投资者谨慎识别冒用我司名义编造“长期计划项目”以及伪造《通知函》及《邀请函》等文件的公告"
+      },
+      {
+        "date": "2024-03-22",
+        "title": "关于提示投资者谨慎识别冒用我司名义举办投资者见面会的公告"
+      },
+      {
+        "date": "2024-03-07",
+        "title": "关于谨防冒用公司名义实施违法活动的提示"
+      },
+      {
+        "date": "2022-08-09",
+        "title": "搬迁公告"
+      },
+      {
+        "date": "2024-07-12",
+        "title": "关于上海衍复投资管理有限公司微信公众号名称的公告"
+      },
+      {
+        "date": "2024-03-25",
+        "title": "关于提示投资者谨慎识别冒用我司名义编造“长期计划项目”以及伪造《通知函》及《邀请函》等文件的公告"
+      },
+      {
+        "date": "2024-03-22",
+        "title": "关于提示投资者谨慎识别冒用我司名义举办投资者见面会的公告"
+      },
+      {
+        "date": "2024-03-07",
+        "title": "关于谨防冒用公司名义实施违法活动的提示"
+      },
+      {
+        "date": "2022-08-09",
+        "title": "搬迁公告"
+      }
+    ]
+  }
+}

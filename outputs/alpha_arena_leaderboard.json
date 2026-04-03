@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "source": "/Users/zhumeng/crypto-alpha-arena/data/btc_sample.csv",
+    "script": "run_alpha_backtest.py",
+    "macro": {
+      "regime": "neutral",
+      "confidence": 0.45,
+      "reasoning": "mixed / low-conviction macro",
+      "fed_effective_rate_pct": 3.64,
+      "fed_note": "DFF latest=3.6400% \u03941d=+0.0000pp",
+      "sec_crypto_headline_sample": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets | SEC and CFTC Reschedule Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era | SEC and CFTC to Hold Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era",
+      "sources": [
+        "DFF latest=3.6400% \u03941d=+0.0000pp",
+        "SEC crypto headlines=3 enforcement_tone=0"
+      ]
+    },
+    "coinglass": {
+      "symbol": "BTC",
+      "fetched_at": "2026-03-28T08:38:37.287845Z",
+      "ok": true,
+      "error": null,
+      "funding_rate_avg": null,
+      "open_interest_usd": null,
+      "long_short_ratio": null,
+      "liquidation_24h_usd": null,
+      "fear_greed_value": null,
+      "raw_excerpt": "{'symbol': 'BTC', 'current_price': 66442.3, 'avg_funding_rate_by_oi': -0.00248, 'avg_funding_rate_by_vol': -0.002334, 'market_cap_usd': 1330313563295.012, 'open_interest_market_cap_ratio': 0.0377, 'open_interest_usd': 50185704881.2713, 'open_interest_quantity': 755076.6645, 'open_interest_volume_ratio': 0.8186, 'oi_vol_ratio_change_percent_1h': 5.9, 'oi_vol_ratio_change_percent_4h': 14.43, 'oi_vol_ratio_change_percent_24h': 7.95}"
+    },
+    "agents": [
+      {
+        "agent_id": "h1",
+        "name": "Momentum-A",
+        "role": "trading"
+      },
+      {
+        "agent_id": "h2",
+        "name": "Momentum-B",
+        "role": "trading"
+      },
+      {
+        "agent_id": "h3",
+        "name": "Momentum-C",
+        "role": "trading"
+      },
+      {
+        "agent_id": "macro_news",
+        "name": "Macro/News Agent",
+        "role": "macro"
+      }
+    ]
+  },
+  "leaderboard": [
+    {
+      "agent_id": "h2",
+      "name": "Momentum-B",
+      "equity_usd": 90554.88615302047,
+      "total_return": -9.445113846979524,
+      "sharpe_ratio": -10.0,
+      "sortino_ratio": -10.0,
+      "max_drawdown_pct": 9.465990941709808,
+      "diversity_factor": 0.5882352941176471,
+      "score": -4.602777546074266
+    },
+    {
+      "agent_id": "h1",
+      "name": "Momentum-A",
+      "equity_usd": 89566.86142296904,
+      "total_return": -10.433138577030954,
+      "sharpe_ratio": -10.0,
+      "sortino_ratio": -10.0,
+      "max_drawdown_pct": 10.520207297359143,
+      "diversity_factor": 0.5882352941176471,
+      "score": -4.807434656797384
+    },
+    {
+      "agent_id": "h3",
+      "name": "Momentum-C",
+      "equity_usd": 89566.80998391658,
+      "total_return": -10.433190016083415,
+      "sharpe_ratio": -10.0,
+      "sortino_ratio": -10.0,
+      "max_drawdown_pct": 10.520258312596445,
+      "diversity_factor": 0.5882352941176471,
+      "score": -4.807445307208464
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-03-31T06:44:30.016794Z",
+  "manager": "上海衍复投资管理有限公司",
+  "sources": [
+    {
+      "id": "amac_pof_fund_api",
+      "endpoint": "https://gs.amac.org.cn/amac-infodisc/api/pof/fund",
+      "records": 183,
+      "file": "amac_funds_api_full.json"
+    },
+    {
+      "id": "amac_fund_html_detail",
+      "records": 183,
+      "parsed_file": "amac_fund_detail_parsed.json",
+      "raw_html_dir": "raw"
+    },
+    {
+      "id": "yanfu_official_html",
+      "files": [
+        "raw/yanfu_home.html (cache)",
+        "raw/yanfu_about.html (cache)",
+        "raw/yanfu_consult.html (cache)",
+        "raw/yanfu_join.html (cache)"
+      ]
+    },
+    {
+      "id": "amac_manager_html",
+      "manager_ids": [
+        "1908041900102948"
+      ],
+      "files": [
+        "raw/amac_manager_1908041900102948.html (cache)"
+      ]
+    },
+    {
+      "id": "simuwang_company_snapshot",
+      "note": "SPA snapshot (disk cache)",
+      "file": "raw/simuwang_company_CO00003EOW.html"
+    }
+  ],
+  "not_collected": [
+    "Private fund NAV / time series performance (not in AMAC public API)",
+    "Holdings, factor loadings, live book (proprietary)",
+    "Simuwang 等站点上的结构化业绩/重仓需登录或其商业 API（此处仅保存首屏 HTML 快照）"
+  ],
+  "_amac_list_source": "disk_cache_hit"
+}

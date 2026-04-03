@@ -1,0 +1,44 @@
+{
+  "ic_mean_by_market": {
+    "CN CSI1000": 0.041452703571778736,
+    "VN VNI": -0.022501241622413144,
+    "IN Nifty": -0.022911043487751442,
+    "US SPX": -0.029333486557103595,
+    "US Russell 2000": -0.01742847946117398
+  },
+  "ir_by_market": {
+    "CN CSI1000": 0.3818407259791399,
+    "VN VNI": -0.17108721973066043,
+    "IN Nifty": -0.14064529087052716,
+    "US SPX": -0.15975129825849424,
+    "US Russell 2000": -0.09806699307306209
+  },
+  "decay_ratio_sea_vs_us": 0.21961184687165866,
+  "turnover_efficiency": {
+    "CN_CSI1000": 1.0,
+    "VN_VNI": 0.94,
+    "IN_NIFTY": 0.94,
+    "US_SP500": 0.94,
+    "US_RUT2000": 0.94,
+    "CRYPTO_ETF_IBIT": 1.0,
+    "CRYPTO_ETF_ETHW": 1.0,
+    "US_BIOTECH_QUANT": 0.94
+  },
+  "settlement_friction_bps": {
+    "CN_CSI1000": 10.0,
+    "VN_VNI": 2.0,
+    "IN_NIFTY": 5.0,
+    "US_SP500": 0.0,
+    "US_RUT2000": 0.0,
+    "CRYPTO_ETF_IBIT": 0.0,
+    "CRYPTO_ETF_ETHW": 0.0,
+    "US_BIOTECH_QUANT": 0.0
+  },
+  "strategic_sharpe_priors": {
+    "S&P 500\n(generic indexing)": 0.3778385093157712,
+    "Biotech\n(quantamental / agents)": 1.1240922055856113,
+    "Crypto ETF\n(IBIT / ETHW harvest)": 0.9930701111105635,
+    "Russell 2000\n(small-cap ops)": 0.9654584957856986
+  },
+  "pivot_end_equity_index": 1.762367117721962
+}

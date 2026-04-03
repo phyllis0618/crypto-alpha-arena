@@ -1,0 +1,1573 @@
+{
+  "manager": "上海衍复投资管理有限公司",
+  "fund_count": 183,
+  "strategy_mix_summary": {
+    "index_enhancement": 109,
+    "unknown": 39,
+    "market_neutral": 27,
+    "small_cap_alpha": 23,
+    "multi_strategy": 3
+  },
+  "hedge_leakage": [
+    {
+      "fund_id": "SARL31",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SAZU44",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAYD87",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBRV85",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBPW78",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBPW81",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBQY18",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBRV34",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBRV39",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBRV41",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBRV35",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBRV37",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBQH41",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBRM51",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBQU30",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBRS68",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBSD78",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBSD02",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAEP29",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SBML16",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBNM49",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBCX55",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBNU05",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBDH74",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBCX52",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBBG47",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "STR712",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SBDB54",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBCG65",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SADD50",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SADD51",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SADD52",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_300"
+      ]
+    },
+    {
+      "fund_id": "SBBY08",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAWP13",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SBBJ79",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBAY82",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SBAY83",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SALC66",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SATJ05",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAZT87",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAWQ23",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAZD71",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAZE88",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAZL26",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAUB16",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAYG53",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SATM74",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAWC98",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAYR33",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAXL99",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAYR32",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAVW23",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAUN40",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SAWV43",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAWW38",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAKE81",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SATM31",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAUJ26",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SASM47",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SATN50",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SASC84",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SARL30",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SASD30",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SATF59",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_a500"
+      ]
+    },
+    {
+      "fund_id": "SAUB19",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAUH78",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SASZ67",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SARB22",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SARS81",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SARE43",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SAQH50",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SARS79",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_300"
+      ]
+    },
+    {
+      "fund_id": "SANX00",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAPR88",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHQ42",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SARH64",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SANX58",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SANX59",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SANT04",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SANW00",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAPZ16",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SALC08",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAPN85",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SANK41",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAKG20",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHU97",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SANJ04",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SANJ10",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SANJ08",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAJS29",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SALH34",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAHW15",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHS95",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHJ66",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAJU11",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHQ31",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAJB80",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAJX02",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHQ30",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAJB38",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAJE09",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SAJF47",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SACJ64",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAGW04",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAGY63",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_all_share"
+      ]
+    },
+    {
+      "fund_id": "SAHU27",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB8112",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SXZ678",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SAFA67",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SACX15",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SADD20",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SADY99",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SAEJ62",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SAEU44",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB2062",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SADZ00",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SACX12",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SADP52",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SABK54",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SAFA65",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SADD18",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB2064",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SZQ140",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SADP53",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SACH49",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SACX56",
+      "score_0_1": 0.27,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB5505",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB1342",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB9703",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAY76",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAT77",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SB8249",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SAAR00",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SABW26",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SAAJ24",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SACA73",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SACA74",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB9256",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "S03834",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SABC88",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SABD46",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SABD47",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SABD48",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SABD26",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SABP80",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SABP81",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB8114",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_300"
+      ]
+    },
+    {
+      "fund_id": "SAAV07",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SB8105",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SAAY17",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAY20",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB6885",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_300"
+      ]
+    },
+    {
+      "fund_id": "SB7972",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SAAY15",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAY18",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAY30",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAY31",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SAAC92",
+      "score_0_1": 0.27,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB5217",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB5218",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB5993",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SAAC86",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SB9721",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SAAE21",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_1000"
+      ]
+    },
+    {
+      "fund_id": "SAAE22",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SB2871",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SB3587",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SB2872",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SB7994",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: csi_500"
+      ]
+    },
+    {
+      "fund_id": "SAAE54",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB8198",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB8870",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB8871",
+      "score_0_1": 0.27,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB7709",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "S03833",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SZU737",
+      "score_0_1": 0.72,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure."
+      ]
+    },
+    {
+      "fund_id": "SB4550",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": []
+    },
+    {
+      "fund_id": "SB5504",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB4308",
+      "score_0_1": 0.27,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SZT412",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB5799",
+      "score_0_1": 0.15,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Neutral-labeled sleeve — residual beta often from shorts borrow & index basis."
+      ]
+    },
+    {
+      "fund_id": "SB4822",
+      "score_0_1": 0.84,
+      "rationale": "Higher score ≈ larger share of P/L explainable by beta/style vs pure factor-neutral book.",
+      "drivers": [
+        "Explicit index-enhancement sleeve → primary benchmark beta is economic exposure.",
+        "Tagged primary beta: small_cap_style",
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    },
+    {
+      "fund_id": "SB8183",
+      "score_0_1": 0.27,
+      "rationale": "Lower score ≈ product economics closer to cash-neutral construction (still not proof of live hedging).",
+      "drivers": [
+        "Small-cap tilt through liquidity-constrained names → style drift vs broad neutral benchmark.",
+        "Size factor emphasis (CN) does not translate 1:1 to US large-cap depth."
+      ]
+    }
+  ],
+  "liquidity_capacity": {
+    "summary": "High-turnover CN index enhancement + small-cap sleeves consume top-of-book depth faster than the same nominal turnover in US large-cap tapes.",
+    "yanfu_bucket": "enhancement=109, neutral=27, smallcap_tagged=23",
+    "versus_us_depth": "US archetype assumes deeper liquidity vs CN small/mid; same notional may hit liquidity wall earlier in CN. Reference turnover US ~55.0x/yr illustrative.",
+    "versus_apac_efficiency": "JP archetype: deep_but_efficient — higher turnover strategies often face lower per-name edge after costs vs CN retail-structured flow."
+  },
+  "factor_contrast": {
+    "cn_thesis": [
+      "size_tilt_small: persistent in A-share microstructure",
+      "short_term_reversal: persistent in A-share microstructure",
+      "retail_flow_proxies: persistent in A-share microstructure"
+    ],
+    "us_citadel_style_thesis": [
+      "order_book_microstructure: competitive arms race",
+      "alternative_data: competitive arms race",
+      "cross_sectional_stat_arb: competitive arms race"
+    ],
+    "apac_jp_in_thesis": [
+      "low_vol_carry",
+      "quality_momentum_blend"
+    ],
+    "apac_in_thesis": [
+      "momentum_quality",
+      "midcap_liquidity_skew"
+    ]
+  },
+  "alpha_decay": {
+    "headline": "Alpha decay when migrating CN small-cap tilt → US large-cap book",
+    "bullets": [
+      "Size and reversal sleeves scale with retail participation & mid-cap impact in CN — largely absent in US Mega-cap.",
+      "Stat-arb / OB dynamics in US (Citadel-style archetype) compete on latency & data fusion; CN name-level alpha does not port without rebuild.",
+      "Capacity: CN small-cap sleeves decay faster when pushing notional into names with wider spreads — US depth absorbs size but arbitrages the signal.",
+      "Monitor live correlation to CSI1000 / small-cap style vs book P/L — rising beta to size factor under 'neutral' label raises effective hedge leakage."
+    ]
+  },
+  "extension_hooks": {
+    "nav_csv_path": "Inject allocator-exported NAV for fund-level Sharpe vs archetypes.",
+    "fact_sheet_parser": "Optional Playwright/Selenium for authenticated doc vaults (not in OSS scope).",
+    "live_risk_feed": "Book-level beta to Barra/CNE5-style factors for production hedge leakage."
+  }
+}

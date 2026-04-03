@@ -1,0 +1,48 @@
+{
+  "macro": {
+    "regime": "neutral",
+    "confidence": 0.45,
+    "reasoning": "mixed / low-conviction macro",
+    "fed_effective_rate_pct": 3.64,
+    "fed_note": "DFF latest=3.6400% \u03941d=+0.0000pp",
+    "sec_crypto_headline_sample": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets | SEC and CFTC Reschedule Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era | SEC and CFTC to Hold Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era",
+    "sources": [
+      "DFF latest=3.6400% \u03941d=+0.0000pp",
+      "SEC crypto headlines=3 enforcement_tone=0"
+    ]
+  },
+  "coinglass": {
+    "symbol": "BTC",
+    "fetched_at": "2026-04-03T11:08:06.996702Z",
+    "ok": true,
+    "error": null,
+    "funding_rate_avg": null,
+    "open_interest_usd": null,
+    "long_short_ratio": null,
+    "liquidation_24h_usd": null,
+    "fear_greed_value": null,
+    "raw_excerpt": ""
+  },
+  "agents": [
+    {
+      "agent_id": "h1",
+      "name": "Momentum-A",
+      "role": "trading"
+    },
+    {
+      "agent_id": "h2",
+      "name": "Momentum-B",
+      "role": "trading"
+    },
+    {
+      "agent_id": "h3",
+      "name": "Momentum-C",
+      "role": "trading"
+    },
+    {
+      "agent_id": "macro_news",
+      "name": "Macro/News Agent",
+      "role": "macro"
+    }
+  ]
+}

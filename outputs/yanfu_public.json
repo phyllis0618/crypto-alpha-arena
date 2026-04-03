@@ -1,0 +1,2118 @@
+{
+  "manager": "上海衍复投资管理有限公司",
+  "notes": [
+    "备案基金列表来自中国证券投资基金业协会公开接口；不构成投资建议。",
+    "策略细节与完整持仓非公开材料，本脚本无法保证获取。"
+  ],
+  "amac": {
+    "source": "amac_pof_fund",
+    "managerName": "上海衍复投资管理有限公司",
+    "totalPagesReported": 2418,
+    "pagesScanned": 400,
+    "maxPagesCap": 400,
+    "fundCount": 205,
+    "funds": [
+      {
+        "fundName": "衍复兴泰中证全指2号私募证券投资基金",
+        "fundNo": "SARL31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774483200000,
+        "establishDate": 1773100800000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2603261527106523.html"
+      },
+      {
+        "fundName": "衍复博裕中证全指指数增强E期私募证券投资基金",
+        "fundNo": "SAZU44",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774483200000,
+        "establishDate": 1773792000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603261527106857.html"
+      },
+      {
+        "fundName": "衍复博裕中证全指指数增强D期私募证券投资基金",
+        "fundNo": "SAYD87",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774396800000,
+        "establishDate": 1773792000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603251921102146.html"
+      },
+      {
+        "fundName": "衍复兴证知己中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SBRV85",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1774310400000,
+        "establishDate": 1773705600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2603241724103463.html"
+      },
+      {
+        "fundName": "衍复信合中证全指指增二号私募证券投资基金",
+        "fundNo": "SBRV34",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773878400000,
+        "establishDate": 1773187200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603191030105903.html"
+      },
+      {
+        "fundName": "衍复信合中证A500指增二号私募证券投资基金",
+        "fundNo": "SBRV39",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773878400000,
+        "establishDate": 1773273600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603191347107632.html"
+      },
+      {
+        "fundName": "衍复信合中证A500指增三号私募证券投资基金",
+        "fundNo": "SBRV41",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773878400000,
+        "establishDate": 1773273600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603191347107949.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SBQH22",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101247.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强二号私募证券投资基金",
+        "fundNo": "SBQH39",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101317.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强五号私募证券投资基金",
+        "fundNo": "SBRW49",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101467.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SBQH22",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101247.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强二号私募证券投资基金",
+        "fundNo": "SBQH39",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101317.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强五号私募证券投资基金",
+        "fundNo": "SBRW49",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773705600000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603171735101467.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强三号私募证券投资基金",
+        "fundNo": "SBQH41",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773619200000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603161538104876.html"
+      },
+      {
+        "fundName": "衍复朝熠中证全指指数增强四号私募证券投资基金",
+        "fundNo": "SBRM51",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773619200000,
+        "establishDate": 1773014400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603161538104946.html"
+      },
+      {
+        "fundName": "衍复朝熠中证A500指数增强四号私募证券投资基金",
+        "fundNo": "SBRS68",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773273600000,
+        "establishDate": 1772582400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603121711102131.html"
+      },
+      {
+        "fundName": "衍复信曜6号私募证券投资基金",
+        "fundNo": "SBSD78",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773273600000,
+        "establishDate": 1772668800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603121047109182.html"
+      },
+      {
+        "fundName": "衍复希格斯十一号私募证券投资基金",
+        "fundNo": "SBQU30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773273600000,
+        "establishDate": 1772064000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603121711101540.html"
+      },
+      {
+        "fundName": "衍复朝熠中证A500指数增强四号私募证券投资基金",
+        "fundNo": "SBRS68",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773273600000,
+        "establishDate": 1772582400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2603121711102131.html"
+      },
+      {
+        "fundName": "衍复信曜6号私募证券投资基金",
+        "fundNo": "SBSD78",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773273600000,
+        "establishDate": 1772668800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2603121047109182.html"
+      },
+      {
+        "fundName": "衍复鲲鹏多元平衡A期私募证券投资基金",
+        "fundNo": "SBSD02",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1773100800000,
+        "establishDate": 1772064000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2603100926109645.html"
+      },
+      {
+        "fundName": "衍复信合中证1000指增一号私募证券投资基金",
+        "fundNo": "SAEP29",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1772150400000,
+        "establishDate": 1770940800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2602270936108597.html"
+      },
+      {
+        "fundName": "衍复信合中证1000指增一号私募证券投资基金",
+        "fundNo": "SAEP29",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1772150400000,
+        "establishDate": 1770940800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2602270936108597.html"
+      },
+      {
+        "fundName": "衍复申瑞中证全指指数增强2号私募证券投资基金",
+        "fundNo": "SBRL30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1771977600000,
+        "establishDate": 1770768000000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2602251747105238.html"
+      },
+      {
+        "fundName": "衍复申瑞中证全指指数增强3号私募证券投资基金",
+        "fundNo": "SBRL33",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1771977600000,
+        "establishDate": 1770768000000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2602251747105179.html"
+      },
+      {
+        "fundName": "衍复联禧中证全指指数增强三号私募证券投资基金",
+        "fundNo": "SBNM49",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1770854400000,
+        "establishDate": 1769126400000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2602121507104052.html"
+      },
+      {
+        "fundName": "衍复华享8号私募证券投资基金",
+        "fundNo": "SBCX55",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1770681600000,
+        "establishDate": 1769472000000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2602101602107520.html"
+      },
+      {
+        "fundName": "衍复盛新中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SBNU05",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1770595200000,
+        "establishDate": 1769126400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2602091705102810.html"
+      },
+      {
+        "fundName": "衍复财富臻选中证A500指数增强1号私募证券投资基金",
+        "fundNo": "SBDH74",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1769990400000,
+        "establishDate": 1761696000000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2602021941101532.html"
+      },
+      {
+        "fundName": "衍复华享7号私募证券投资基金",
+        "fundNo": "SBCX52",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1769040000000,
+        "establishDate": 1765843200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2601221810101751.html"
+      },
+      {
+        "fundName": "衍复华享7号私募证券投资基金",
+        "fundNo": "SBCX52",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1769040000000,
+        "establishDate": 1765843200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2601221810101751.html"
+      },
+      {
+        "fundName": "衍复联禧中证全指指数增强二号私募证券投资基金",
+        "fundNo": "SBBG47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1768435200000,
+        "establishDate": 1767916800000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2601151712101132.html"
+      },
+      {
+        "fundName": "衍复联禧中证全指指数增强二号私募证券投资基金",
+        "fundNo": "SBBG47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1768435200000,
+        "establishDate": 1767916800000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2601151712101132.html"
+      },
+      {
+        "fundName": "衍复兆晟中证全指指增二号私募证券投资基金",
+        "fundNo": "STR712",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1763596800000,
+        "establishDate": 1762300800000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2511201447105915.html"
+      },
+      {
+        "fundName": "衍复兴享中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SBDB54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1759104000000,
+        "establishDate": 1756857600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2509291004104248.html"
+      },
+      {
+        "fundName": "衍复泽帆5号私募证券投资基金",
+        "fundNo": "SBCG65",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1756080000000,
+        "establishDate": 1753660800000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2508251720101542.html"
+      },
+      {
+        "fundName": "衍复朝熠中证1000指数增强二号私募证券投资基金",
+        "fundNo": "SADD50",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1754611200000,
+        "establishDate": 1754352000000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2508081559104960.html"
+      },
+      {
+        "fundName": "衍复朝熠中证500指数增强二号私募证券投资基金",
+        "fundNo": "SADD51",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1754611200000,
+        "establishDate": 1754352000000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2508081559105028.html"
+      },
+      {
+        "fundName": "衍复朝熠沪深300指数增强二号私募证券投资基金",
+        "fundNo": "SADD52",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1754611200000,
+        "establishDate": 1754352000000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2508072015109127.html"
+      },
+      {
+        "fundName": "衍复华享6号私募证券投资基金",
+        "fundNo": "SBBY08",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1753056000000,
+        "establishDate": 1752624000000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2507211656115265.html"
+      },
+      {
+        "fundName": "衍复申选中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SAWP13",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1752796800000,
+        "establishDate": 1752537600000,
+        "mandatorName": "申万宏源证券有限公司",
+        "url": "2507181758101724.html"
+      },
+      {
+        "fundName": "衍复白泽平衡一号私募证券投资基金",
+        "fundNo": "SBBJ79",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1752537600000,
+        "establishDate": 1752105600000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2507151025109546.html"
+      },
+      {
+        "fundName": "衍复华享5号私募证券投资基金",
+        "fundNo": "SBAY86",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1751846400000,
+        "establishDate": 1751414400000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2507041708118202.html"
+      },
+      {
+        "fundName": "衍复信鸿中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SATM76",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750896000000,
+        "establishDate": 1750204800000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2506261005106239.html"
+      },
+      {
+        "fundName": "衍复博华8号私募证券投资基金",
+        "fundNo": "SAZT87",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750723200000,
+        "establishDate": 1750032000000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2506241759101840.html"
+      },
+      {
+        "fundName": "衍复希格斯七号私募证券投资基金",
+        "fundNo": "SAZD71",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750204800000,
+        "establishDate": 1749772800000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2506181604102264.html"
+      },
+      {
+        "fundName": "衍复希格斯八号私募证券投资基金",
+        "fundNo": "SAZE88",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750204800000,
+        "establishDate": 1749772800000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2506181604102217.html"
+      },
+      {
+        "fundName": "衍复君泽一号私募证券投资基金",
+        "fundNo": "SAZL26",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750204800000,
+        "establishDate": 1749600000000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2506181604102102.html"
+      },
+      {
+        "fundName": "衍复金选中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SAUB16",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1750118400000,
+        "establishDate": 1749600000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2506171644102903.html"
+      },
+      {
+        "fundName": "衍复金选中证A500指数增强A期私募证券投资基金",
+        "fundNo": "SATM74",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1749168000000,
+        "establishDate": 1748563200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2506061710101891.html"
+      },
+      {
+        "fundName": "衍复金选中证A500指数增强A期私募证券投资基金",
+        "fundNo": "SATM74",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1749168000000,
+        "establishDate": 1748563200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2506061710101891.html"
+      },
+      {
+        "fundName": "衍复启程二号私募证券投资基金",
+        "fundNo": "SAYY53",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1748476800000,
+        "establishDate": 1748217600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2505291706102898.html"
+      },
+      {
+        "fundName": "衍复启程二号私募证券投资基金",
+        "fundNo": "SAYY53",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1748476800000,
+        "establishDate": 1748217600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2505291706102898.html"
+      },
+      {
+        "fundName": "衍复朝熠中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SAXL99",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1748217600000,
+        "establishDate": 1747785600000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2505261758100765.html"
+      },
+      {
+        "fundName": "衍复朝熠中证A500指数增强二号私募证券投资基金",
+        "fundNo": "SAYR32",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1748217600000,
+        "establishDate": 1747785600000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2505261758100861.html"
+      },
+      {
+        "fundName": "衍复星汉中证A500指增1号私募证券投资基金",
+        "fundNo": "SAVW23",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1747094400000,
+        "establishDate": 1745884800000,
+        "mandatorName": "中国银河证券股份有限公司",
+        "url": "2505121856104145.html"
+      },
+      {
+        "fundName": "衍复兴泰中证全指3号私募证券投资基金",
+        "fundNo": "SAUN40",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1746662400000,
+        "establishDate": 1745971200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2505081708102769.html"
+      },
+      {
+        "fundName": "衍复慧投A500指增一号私募证券投资基金",
+        "fundNo": "SAWV43",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1745798400000,
+        "establishDate": 1745366400000,
+        "mandatorName": "国泰海通证券股份有限公司",
+        "url": "2504281804100602.html"
+      },
+      {
+        "fundName": "衍复广衍量化3号私募证券投资基金",
+        "fundNo": "SAWW38",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1745798400000,
+        "establishDate": 1745366400000,
+        "mandatorName": "广发证券股份有限公司",
+        "url": "2504281804100554.html"
+      },
+      {
+        "fundName": "衍复广胜中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAKE81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1745193600000,
+        "establishDate": 1744329600000,
+        "mandatorName": "广发证券股份有限公司",
+        "url": "2504211656104436.html"
+      },
+      {
+        "fundName": "衍复信淮中证A500指数增强1号私募证券投资基金",
+        "fundNo": "SATM31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1744070400000,
+        "establishDate": 1743552000000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2504081732102017.html"
+      },
+      {
+        "fundName": "衍复联禧中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAUJ26",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1744070400000,
+        "establishDate": 1743552000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2504081731100827.html"
+      },
+      {
+        "fundName": "衍复信淮中证A500指数增强1号私募证券投资基金",
+        "fundNo": "SATM31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1744070400000,
+        "establishDate": 1743552000000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2504081732102017.html"
+      },
+      {
+        "fundName": "衍复联禧中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAUJ26",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1744070400000,
+        "establishDate": 1743552000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2504081731100827.html"
+      },
+      {
+        "fundName": "衍复宇航1000指增一号私募证券投资基金",
+        "fundNo": "SAWK64",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1743638400000,
+        "establishDate": 1743379200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2504030936106382.html"
+      },
+      {
+        "fundName": "衍复中证A500指数增强一号私募证券投资基金",
+        "fundNo": "SASM47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1743033600000,
+        "establishDate": 1742774400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2503271625104237.html"
+      },
+      {
+        "fundName": "衍复中证全指指数增强红升专享1号私募证券投资基金",
+        "fundNo": "SATN50",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1742515200000,
+        "establishDate": 1742256000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2503211215104815.html"
+      },
+      {
+        "fundName": "衍复兴瑞A500指增一号私募证券投资基金",
+        "fundNo": "SASC84",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1742256000000,
+        "establishDate": 1741737600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2503171923101492.html"
+      },
+      {
+        "fundName": "衍复兴泰中证全指1号私募证券投资基金",
+        "fundNo": "SARL30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1741132800000,
+        "establishDate": 1740700800000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2503051900100774.html"
+      },
+      {
+        "fundName": "衍复广为中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAUB19",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1740528000000,
+        "establishDate": 1740009600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2502261605103641.html"
+      },
+      {
+        "fundName": "衍复广为中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAUB19",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1740528000000,
+        "establishDate": 1740009600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2502261605103641.html"
+      },
+      {
+        "fundName": "衍复华享3号私募证券投资基金",
+        "fundNo": "SAUH78",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1740441600000,
+        "establishDate": 1740009600000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2502251629104077.html"
+      },
+      {
+        "fundName": "衍复信淮中证全指指数增强2号私募证券投资基金",
+        "fundNo": "SASZ67",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1738800000000,
+        "establishDate": 1737936000000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2502060954104766.html"
+      },
+      {
+        "fundName": "衍复信合对冲二号私募证券投资基金",
+        "fundNo": "SARB22",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737936000000,
+        "establishDate": 1737590400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2501241751107610.html"
+      },
+      {
+        "fundName": "衍复金选中证全指指数增强二号私募证券投资基金",
+        "fundNo": "SARN77",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737936000000,
+        "establishDate": 1737590400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2501241751107541.html"
+      },
+      {
+        "fundName": "衍复鑫享中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SALX41",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737676800000,
+        "establishDate": 1735862400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2501241751100115.html"
+      },
+      {
+        "fundName": "衍复苏禄灵活对冲三号私募证券投资基金",
+        "fundNo": "SARS81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737590400000,
+        "establishDate": 1737331200000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2501231614104986.html"
+      },
+      {
+        "fundName": "衍复鑫享中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SALX41",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737676800000,
+        "establishDate": 1735862400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2501241751100115.html"
+      },
+      {
+        "fundName": "衍复新擎中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAQH50",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737072000000,
+        "establishDate": 1736812800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2501171923100632.html"
+      },
+      {
+        "fundName": "衍复新擎中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAQH50",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1737072000000,
+        "establishDate": 1736812800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2501171923100632.html"
+      },
+      {
+        "fundName": "衍复东胜中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAPR88",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1734566400000,
+        "establishDate": 1734307200000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2412191938100616.html"
+      },
+      {
+        "fundName": "衍复金选指数增强8号私募证券投资基金",
+        "fundNo": "SAHQ42",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1733875200000,
+        "establishDate": 1733443200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2412111450104631.html"
+      },
+      {
+        "fundName": "衍复金选指数增强8号私募证券投资基金",
+        "fundNo": "SAHQ42",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1733875200000,
+        "establishDate": 1733443200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2412111450104631.html"
+      },
+      {
+        "fundName": "衍复信享500增强一号私募证券投资基金",
+        "fundNo": "SARH64",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1733702400000,
+        "establishDate": 1733270400000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2412090850109029.html"
+      },
+      {
+        "fundName": "衍复泰瑞11号私募证券投资基金",
+        "fundNo": "SARC62",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1732579200000,
+        "establishDate": 1732147200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2411261009105269.html"
+      },
+      {
+        "fundName": "衍复中性二十三号私募证券投资基金",
+        "fundNo": "SANW00",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1730246400000,
+        "establishDate": 1729728000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2410291900108567.html"
+      },
+      {
+        "fundName": "衍复天权中证全指指增一号私募证券投资基金",
+        "fundNo": "SAPZ16",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1730246400000,
+        "establishDate": 1729728000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2410300958105744.html"
+      },
+      {
+        "fundName": "衍复广德量化对冲5号私募证券投资基金",
+        "fundNo": "SALC08",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1730073600000,
+        "establishDate": 1729468800000,
+        "mandatorName": "广发证券股份有限公司",
+        "url": "2410260005109170.html"
+      },
+      {
+        "fundName": "衍复启程一号私募证券投资基金",
+        "fundNo": "SAPN85",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1730073600000,
+        "establishDate": 1729641600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2410260005109224.html"
+      },
+      {
+        "fundName": "衍复兴享中性一号私募证券投资基金",
+        "fundNo": "SANK41",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1729555200000,
+        "establishDate": 1729123200000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2410220919107660.html"
+      },
+      {
+        "fundName": "衍复安享中证全指指数增强1期私募证券投资基金",
+        "fundNo": "SAKG20",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1727654400000,
+        "establishDate": 1719964800000,
+        "mandatorName": "国投证券股份有限公司",
+        "url": "2409290010105822.html"
+      },
+      {
+        "fundName": "衍复鑫安中性三号私募证券投资基金",
+        "fundNo": "SANJ10",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1724976000000,
+        "establishDate": 1724371200000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2408301152102262.html"
+      },
+      {
+        "fundName": "衍复鑫安中性二号私募证券投资基金",
+        "fundNo": "SANJ08",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1724716800000,
+        "establishDate": 1723593600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2408271613102061.html"
+      },
+      {
+        "fundName": "衍复鑫安中性三号私募证券投资基金",
+        "fundNo": "SANJ10",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1724976000000,
+        "establishDate": 1724371200000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2408301152102262.html"
+      },
+      {
+        "fundName": "衍复信淮中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAJS29",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1722384000000,
+        "establishDate": 1719964800000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2407311648101944.html"
+      },
+      {
+        "fundName": "衍复陆裕灵活对冲一号私募证券投资基金",
+        "fundNo": "SALH34",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1722384000000,
+        "establishDate": 1719360000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2407311640101417.html"
+      },
+      {
+        "fundName": "衍复信淮中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAJS29",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1722384000000,
+        "establishDate": 1719964800000,
+        "mandatorName": "中信建投证券股份有限公司",
+        "url": "2407311648101944.html"
+      },
+      {
+        "fundName": "衍复陆裕灵活对冲一号私募证券投资基金",
+        "fundNo": "SALH34",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1722384000000,
+        "establishDate": 1719360000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2407311640101417.html"
+      },
+      {
+        "fundName": "衍复博裕中证全指指数增强A期私募证券投资基金",
+        "fundNo": "SAHW13",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1718755200000,
+        "establishDate": 1718236800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2406191924100029.html"
+      },
+      {
+        "fundName": "衍复博裕中证全指指数增强B期私募证券投资基金",
+        "fundNo": "SALC65",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1718755200000,
+        "establishDate": 1718323200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2406191123109949.html"
+      },
+      {
+        "fundName": "衍复星汉中证全指指增1号私募证券投资基金",
+        "fundNo": "SAHZ90",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1718668800000,
+        "establishDate": 1718236800000,
+        "mandatorName": "中国银河证券股份有限公司",
+        "url": "2406181527105215.html"
+      },
+      {
+        "fundName": "衍复涌泉中证全指指增一号私募证券投资基金",
+        "fundNo": "SAKB28",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1718668800000,
+        "establishDate": 1718236800000,
+        "mandatorName": "财通证券股份有限公司",
+        "url": "2406181527105296.html"
+      },
+      {
+        "fundName": "衍复高峰中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAJG32",
+        "workingState": "提前清算",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1716940800000,
+        "establishDate": 1715731200000,
+        "mandatorName": "浙商证券股份有限公司",
+        "url": "2405281815107515.html"
+      },
+      {
+        "fundName": "衍复高峰中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAJG32",
+        "workingState": "提前清算",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1716940800000,
+        "establishDate": 1715731200000,
+        "mandatorName": "浙商证券股份有限公司",
+        "url": "2405281815107515.html"
+      },
+      {
+        "fundName": "衍复海星中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAHJ66",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1716249600000,
+        "establishDate": 1715817600000,
+        "mandatorName": "海通证券股份有限公司",
+        "url": "2405211731101474.html"
+      },
+      {
+        "fundName": "衍复金选中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAHL54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2405161916109388.html"
+      },
+      {
+        "fundName": "衍复光辉中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAJB81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "光大证券股份有限公司",
+        "url": "2405161916109497.html"
+      },
+      {
+        "fundName": "衍复高峰中证全指指数增强1期私募证券投资基金",
+        "fundNo": "SAJG31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "浙商证券股份有限公司",
+        "url": "2405171912100288.html"
+      },
+      {
+        "fundName": "衍复海星中证全指指数增强1号私募证券投资基金",
+        "fundNo": "SAHJ66",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1716249600000,
+        "establishDate": 1715817600000,
+        "mandatorName": "海通证券股份有限公司",
+        "url": "2405211731101474.html"
+      },
+      {
+        "fundName": "衍复金选中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAHL54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2405161916109388.html"
+      },
+      {
+        "fundName": "衍复光辉中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAJB81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "光大证券股份有限公司",
+        "url": "2405161916109497.html"
+      },
+      {
+        "fundName": "衍复高峰中证全指指数增强1期私募证券投资基金",
+        "fundNo": "SAJG31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715904000000,
+        "establishDate": 1715644800000,
+        "mandatorName": "浙商证券股份有限公司",
+        "url": "2405171912100288.html"
+      },
+      {
+        "fundName": "衍复金选中证全指指数增强A期私募证券投资基金",
+        "fundNo": "SAHL61",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715644800000,
+        "establishDate": 1714953600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2405140854109365.html"
+      },
+      {
+        "fundName": "衍复恒益中证全指指增一号私募证券投资基金",
+        "fundNo": "SAJU11",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1715299200000,
+        "establishDate": 1715040000000,
+        "mandatorName": "金融街证券股份有限公司",
+        "url": "2405101721102555.html"
+      },
+      {
+        "fundName": "衍复陆享中证全指指数增强8期私募证券投资基金",
+        "fundNo": "SAHQ30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2404221730103598.html"
+      },
+      {
+        "fundName": "衍复灵溪中性一号私募证券投资基金",
+        "fundNo": "SAJB38",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2404221527105676.html"
+      },
+      {
+        "fundName": "衍复雪瑞全指指增1期私募证券投资基金",
+        "fundNo": "SAJE09",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2404221527105598.html"
+      },
+      {
+        "fundName": "衍复臻选中证全指指增一号私募证券投资基金",
+        "fundNo": "SAJF47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2404221730103103.html"
+      },
+      {
+        "fundName": "衍复陆享中证全指指数增强8期私募证券投资基金",
+        "fundNo": "SAHQ30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2404221730103598.html"
+      },
+      {
+        "fundName": "衍复灵溪中性一号私募证券投资基金",
+        "fundNo": "SAJB38",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2404221527105676.html"
+      },
+      {
+        "fundName": "衍复雪瑞全指指增1期私募证券投资基金",
+        "fundNo": "SAJE09",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2404221527105598.html"
+      },
+      {
+        "fundName": "衍复臻选中证全指指增一号私募证券投资基金",
+        "fundNo": "SAJF47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1713744000000,
+        "establishDate": 1713312000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2404221730103103.html"
+      },
+      {
+        "fundName": "衍复苏禄灵活对冲二号私募证券投资基金",
+        "fundNo": "SAFX81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1712534400000,
+        "establishDate": 1711670400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2404081616104177.html"
+      },
+      {
+        "fundName": "衍复苏禄灵活对冲二号私募证券投资基金",
+        "fundNo": "SAFX81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1712534400000,
+        "establishDate": 1711670400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2404081616104177.html"
+      },
+      {
+        "fundName": "衍复添益中性1号私募证券投资基金",
+        "fundNo": "SACJ64",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1712016000000,
+        "establishDate": 1711929600000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2404021618106419.html"
+      },
+      {
+        "fundName": "衍复汇升灵活对冲一号私募证券投资基金",
+        "fundNo": "SAGW04",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1711584000000,
+        "establishDate": 1711324800000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2403281739102371.html"
+      },
+      {
+        "fundName": "衍复中证全指指数增强一号私募证券投资基金",
+        "fundNo": "SAGY63",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1711584000000,
+        "establishDate": 1711324800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2403281739102426.html"
+      },
+      {
+        "fundName": "衍复春晓中性一号私募证券投资基金",
+        "fundNo": "SAHU27",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1711584000000,
+        "establishDate": 1711324800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2403281739102480.html"
+      },
+      {
+        "fundName": "衍复金选量化对冲4号私募证券投资基金",
+        "fundNo": "SB8112",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1711584000000,
+        "establishDate": 1707177600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2403281739101778.html"
+      },
+      {
+        "fundName": "衍复博裕中证500指数增强B期私募证券投资基金",
+        "fundNo": "SXZ678",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1711584000000,
+        "establishDate": 1709769600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2403281739102739.html"
+      },
+      {
+        "fundName": "衍复博诚沪深300指增一号私募证券投资基金",
+        "fundNo": "SB3649",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1709683200000,
+        "establishDate": 1708905600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2403061429102810.html"
+      },
+      {
+        "fundName": "衍复白泽平衡三号私募证券投资基金",
+        "fundNo": "SAGE76",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1709596800000,
+        "establishDate": 1709164800000,
+        "mandatorName": "海通证券股份有限公司",
+        "url": "2403051000105262.html"
+      },
+      {
+        "fundName": "衍复星汉中性1号私募证券投资基金",
+        "fundNo": "SAFA67",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1708646400000,
+        "establishDate": 1707264000000,
+        "mandatorName": "中国银河证券股份有限公司",
+        "url": "2402231458103496.html"
+      },
+      {
+        "fundName": "衍复信合对冲一号私募证券投资基金",
+        "fundNo": "SACX15",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1708300800000,
+        "establishDate": 1706227200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2402191019106252.html"
+      },
+      {
+        "fundName": "衍复朝熠对冲三号私募证券投资基金",
+        "fundNo": "SADD20",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1706832000000,
+        "establishDate": 1706659200000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2402021532104908.html"
+      },
+      {
+        "fundName": "衍复金选指数增强7号私募证券投资基金",
+        "fundNo": "SADY99",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1706832000000,
+        "establishDate": 1706572800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2402021439101220.html"
+      },
+      {
+        "fundName": "衍复博裕中证1000指数增强K期私募证券投资基金",
+        "fundNo": "SAEJ62",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1705968000000,
+        "establishDate": 1705536000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2401231731101961.html"
+      },
+      {
+        "fundName": "衍复苏禄灵活对冲一号私募证券投资基金",
+        "fundNo": "SAEU44",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1705968000000,
+        "establishDate": 1705536000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2401231731101525.html"
+      },
+      {
+        "fundName": "衍复信衍中证500指数增强三号私募证券投资基金",
+        "fundNo": "SADP52",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1704240000000,
+        "establishDate": 1703721600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2401031609101526.html"
+      },
+      {
+        "fundName": "衍复发扬中性一号私募证券投资基金",
+        "fundNo": "SACX12",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1704326400000,
+        "establishDate": 1703808000000,
+        "mandatorName": "光大证券股份有限公司",
+        "url": "2401031538106573.html"
+      },
+      {
+        "fundName": "衍复信衍中证500指数增强三号私募证券投资基金",
+        "fundNo": "SADP52",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1704240000000,
+        "establishDate": 1703721600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2401031609101526.html"
+      },
+      {
+        "fundName": "衍复发扬1000指数增强1号私募证券投资基金",
+        "fundNo": "SABK54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1703635200000,
+        "establishDate": 1703203200000,
+        "mandatorName": "光大证券股份有限公司",
+        "url": "2312271752111173.html"
+      },
+      {
+        "fundName": "衍复价值一号A期私募证券投资基金",
+        "fundNo": "SAFA65",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1703635200000,
+        "establishDate": 1703203200000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2312271752111127.html"
+      },
+      {
+        "fundName": "衍复发扬1000指数增强1号私募证券投资基金",
+        "fundNo": "SABK54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1703635200000,
+        "establishDate": 1703203200000,
+        "mandatorName": "光大证券股份有限公司",
+        "url": "2312271752111173.html"
+      },
+      {
+        "fundName": "衍复朝熠对冲二号私募证券投资基金",
+        "fundNo": "SADD18",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1703548800000,
+        "establishDate": 1700006400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2312261713103823.html"
+      },
+      {
+        "fundName": "衍复兴泰小市值2号私募证券投资基金",
+        "fundNo": "SACX56",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1701993600000,
+        "establishDate": 1699488000000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2312081740100883.html"
+      },
+      {
+        "fundName": "衍复金选小市值指数增强五号私募证券投资基金",
+        "fundNo": "SB5505",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1701993600000,
+        "establishDate": 1699488000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2312081740100915.html"
+      },
+      {
+        "fundName": "衍复朝熠对冲一号私募证券投资基金",
+        "fundNo": "SB1342",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1701648000000,
+        "establishDate": 1700006400000,
+        "mandatorName": "招商银行股份有限公司",
+        "url": "2312041700106385.html"
+      },
+      {
+        "fundName": "衍复鲲鹏多元平衡一号私募证券投资基金",
+        "fundNo": "SB9703",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1701648000000,
+        "establishDate": 1699401600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2312041744103628.html"
+      },
+      {
+        "fundName": "衍复鲲鹏十八号A期私募证券投资基金",
+        "fundNo": "SAAY76",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1699401600000,
+        "establishDate": 1698969600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2311081508107128.html"
+      },
+      {
+        "fundName": "衍复慧选中证1000指数增强一号私募证券投资基金",
+        "fundNo": "SAAT77",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1699228800000,
+        "establishDate": 1698105600000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2311061344107636.html"
+      },
+      {
+        "fundName": "衍复幸福动能小市值指增一号私募证券投资基金",
+        "fundNo": "SB8249",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1699228800000,
+        "establishDate": 1698796800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2311061344107627.html"
+      },
+      {
+        "fundName": "衍复幸福动能小市值指增一号私募证券投资基金",
+        "fundNo": "SB8249",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1699228800000,
+        "establishDate": 1698796800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2311061344107627.html"
+      },
+      {
+        "fundName": "衍复星汉小市值指数增强3号私募证券投资基金",
+        "fundNo": "SAAJ24",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1698278400000,
+        "establishDate": 1696982400000,
+        "mandatorName": "中国银河证券股份有限公司",
+        "url": "2310261739110859.html"
+      },
+      {
+        "fundName": "衍复小市值指数增强二号私募证券投资基金",
+        "fundNo": "SACH48",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1698624000000,
+        "establishDate": 1698192000000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2310301637103984.html"
+      },
+      {
+        "fundName": "衍复星汉小市值指数增强3号私募证券投资基金",
+        "fundNo": "SAAJ24",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1698278400000,
+        "establishDate": 1696982400000,
+        "mandatorName": "中国银河证券股份有限公司",
+        "url": "2310261739110859.html"
+      },
+      {
+        "fundName": "衍复植享小市值指数增强E期私募证券投资基金",
+        "fundNo": "SB9256",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1696896000000,
+        "establishDate": 1695859200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2310091954108637.html"
+      },
+      {
+        "fundName": "衍复博裕小市值指数增强E期私募证券投资基金",
+        "fundNo": "S03834",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695859200000,
+        "establishDate": 1695686400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309281209105664.html"
+      },
+      {
+        "fundName": "衍复植享小市值指数增强E期私募证券投资基金",
+        "fundNo": "SB9256",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1696896000000,
+        "establishDate": 1695859200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2310091954108637.html"
+      },
+      {
+        "fundName": "衍复信鸿小市值指数增强二号私募证券投资基金",
+        "fundNo": "SABC88",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695859200000,
+        "establishDate": 1695772800000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2309281209108813.html"
+      },
+      {
+        "fundName": "衍复希格斯四号私募证券投资基金",
+        "fundNo": "SABD46",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695859200000,
+        "establishDate": 1695081600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309281639105074.html"
+      },
+      {
+        "fundName": "衍复希格斯五号私募证券投资基金",
+        "fundNo": "SABD47",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695859200000,
+        "establishDate": 1695081600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309281209108022.html"
+      },
+      {
+        "fundName": "衍复鑫安中性一号私募证券投资基金",
+        "fundNo": "SABD48",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695859200000,
+        "establishDate": 1695081600000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309281209108106.html"
+      },
+      {
+        "fundName": "衍复陆享中证1000指数增强二号私募证券投资基金",
+        "fundNo": "SABF03",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695772800000,
+        "establishDate": 1695340800000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309271703101726.html"
+      },
+      {
+        "fundName": "衍复植享小市值指数增强二号私募证券投资基金",
+        "fundNo": "SABD26",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695686400000,
+        "establishDate": 1695254400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309261712102227.html"
+      },
+      {
+        "fundName": "衍复泰瑞7号私募证券投资基金",
+        "fundNo": "SABP80",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695686400000,
+        "establishDate": 1695254400000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2309261712102322.html"
+      },
+      {
+        "fundName": "衍复泰瑞8号私募证券投资基金",
+        "fundNo": "SABP81",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695686400000,
+        "establishDate": 1695254400000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2309261712102131.html"
+      },
+      {
+        "fundName": "衍复金选沪深300指数增强四号私募证券投资基金",
+        "fundNo": "SB8114",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695340800000,
+        "establishDate": 1695081600000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309221730102954.html"
+      },
+      {
+        "fundName": "衍复开阳1000指增一号私募证券投资基金",
+        "fundNo": "SAAV07",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695254400000,
+        "establishDate": 1694995200000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2309211838101045.html"
+      },
+      {
+        "fundName": "衍复广胜小市值指数增强1号私募证券投资基金",
+        "fundNo": "SB8105",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695254400000,
+        "establishDate": 1694995200000,
+        "mandatorName": "广发证券股份有限公司",
+        "url": "2309211838101071.html"
+      },
+      {
+        "fundName": "衍复泰瑞3号私募证券投资基金",
+        "fundNo": "SAAY17",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695168000000,
+        "establishDate": 1694736000000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2309201921101671.html"
+      },
+      {
+        "fundName": "衍复泰瑞6号私募证券投资基金",
+        "fundNo": "SAAY20",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695168000000,
+        "establishDate": 1694736000000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2309201921101713.html"
+      },
+      {
+        "fundName": "衍复汇选沪深300指数增强一号私募证券投资基金",
+        "fundNo": "SB6885",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1695168000000,
+        "establishDate": 1694736000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309201921101298.html"
+      },
+      {
+        "fundName": "衍复海星小市值指数增强5号私募证券投资基金",
+        "fundNo": "SB7972",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694736000000,
+        "establishDate": 1694476800000,
+        "mandatorName": "海通证券股份有限公司",
+        "url": "2309151712103609.html"
+      },
+      {
+        "fundName": "衍复海星小市值指数增强5号私募证券投资基金",
+        "fundNo": "SB7972",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694736000000,
+        "establishDate": 1694476800000,
+        "mandatorName": "海通证券股份有限公司",
+        "url": "2309151712103609.html"
+      },
+      {
+        "fundName": "衍复博华3号私募证券投资基金",
+        "fundNo": "SAAY30",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694649600000,
+        "establishDate": 1694390400000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309141717133121.html"
+      },
+      {
+        "fundName": "衍复泽帆3号私募证券投资基金",
+        "fundNo": "SAAY31",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694649600000,
+        "establishDate": 1694390400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309141717133075.html"
+      },
+      {
+        "fundName": "衍复泽帆2号私募证券投资基金",
+        "fundNo": "SB5217",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694390400000,
+        "establishDate": 1693958400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309111710105085.html"
+      },
+      {
+        "fundName": "衍复博华2号私募证券投资基金",
+        "fundNo": "SB5218",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694390400000,
+        "establishDate": 1693958400000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309111710104963.html"
+      },
+      {
+        "fundName": "衍复金赢小市值指增一号私募证券投资基金",
+        "fundNo": "SB5993",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694131200000,
+        "establishDate": 1693872000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309081103102377.html"
+      },
+      {
+        "fundName": "衍复兆晟小市值增强B号私募证券投资基金",
+        "fundNo": "SAAC92",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694390400000,
+        "establishDate": 1693958400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309111710105043.html"
+      },
+      {
+        "fundName": "衍复泽帆2号私募证券投资基金",
+        "fundNo": "SB5217",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694390400000,
+        "establishDate": 1693958400000,
+        "mandatorName": "招商证券股份有限公司",
+        "url": "2309111710105085.html"
+      },
+      {
+        "fundName": "衍复博华2号私募证券投资基金",
+        "fundNo": "SB5218",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694390400000,
+        "establishDate": 1693958400000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309111710104963.html"
+      },
+      {
+        "fundName": "衍复金赢小市值指增一号私募证券投资基金",
+        "fundNo": "SB5993",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1694131200000,
+        "establishDate": 1693872000000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2309081103102377.html"
+      },
+      {
+        "fundName": "衍复星汉专享中证500指数增强一号私募证券投资基金",
+        "fundNo": "SAAC86",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693958400000,
+        "establishDate": 1693526400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309061045106183.html"
+      },
+      {
+        "fundName": "衍复星汉专享中性一号私募证券投资基金",
+        "fundNo": "SB9721",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693958400000,
+        "establishDate": 1693526400000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309061045106230.html"
+      },
+      {
+        "fundName": "衍复信衍中证1000指数增强二号私募证券投资基金",
+        "fundNo": "SAAE21",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693872000000,
+        "establishDate": 1693440000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309051444105507.html"
+      },
+      {
+        "fundName": "衍复信衍中证500指数增强二号私募证券投资基金",
+        "fundNo": "SAAE22",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693872000000,
+        "establishDate": 1693440000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2309051444105518.html"
+      },
+      {
+        "fundName": "衍复兴享中证500指数增强1号A私募证券投资基金",
+        "fundNo": "SB2872",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693353600000,
+        "establishDate": 1692921600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2308301849104038.html"
+      },
+      {
+        "fundName": "衍复兴享中证500指数增强1号承未来1期私募证券投资基金",
+        "fundNo": "SB7994",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693353600000,
+        "establishDate": 1692921600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2308301849102186.html"
+      },
+      {
+        "fundName": "衍复博裕小市值指数增强二号私募证券投资基金",
+        "fundNo": "SAAE54",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693267200000,
+        "establishDate": 1692835200000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2308291149106053.html"
+      },
+      {
+        "fundName": "衍复金选指数增强6号私募证券投资基金",
+        "fundNo": "SB3587",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693440000000,
+        "establishDate": 1691452800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2308311614106695.html"
+      },
+      {
+        "fundName": "衍复兴享中证500指数增强1号A私募证券投资基金",
+        "fundNo": "SB2872",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693353600000,
+        "establishDate": 1692921600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2308301849104038.html"
+      },
+      {
+        "fundName": "衍复兴享中证500指数增强1号承未来1期私募证券投资基金",
+        "fundNo": "SB7994",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693353600000,
+        "establishDate": 1692921600000,
+        "mandatorName": "兴业证券股份有限公司",
+        "url": "2308301849102186.html"
+      },
+      {
+        "fundName": "衍复臻选小市值指数增强2号私募证券投资基金",
+        "fundNo": "SB7709",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1693180800000,
+        "establishDate": 1692748800000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2308281458105986.html"
+      },
+      {
+        "fundName": "衍复博华1号私募证券投资基金",
+        "fundNo": "SB4550",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692316800000,
+        "establishDate": 1692057600000,
+        "mandatorName": "国泰君安证券股份有限公司",
+        "url": "2308172023109525.html"
+      },
+      {
+        "fundName": "衍复金选小市值指数增强四号私募证券投资基金",
+        "fundNo": "SB5504",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692316800000,
+        "establishDate": 1690848000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2308172023109444.html"
+      },
+      {
+        "fundName": "衍复兴泰小市值1号私募证券投资基金",
+        "fundNo": "SB4308",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692230400000,
+        "establishDate": 1691971200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2308171529103153.html"
+      },
+      {
+        "fundName": "衍复信鸿小市值指数增强3期私募证券投资基金",
+        "fundNo": "SZT412",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692230400000,
+        "establishDate": 1691971200000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2308171529103926.html"
+      },
+      {
+        "fundName": "衍复金享灵活对冲一号1期私募证券投资基金",
+        "fundNo": "SB5799",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692144000000,
+        "establishDate": 1691712000000,
+        "mandatorName": "国金证券股份有限公司",
+        "url": "2308161825102060.html"
+      },
+      {
+        "fundName": "衍复兴泰小市值1号私募证券投资基金",
+        "fundNo": "SB4308",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692230400000,
+        "establishDate": 1691971200000,
+        "mandatorName": "华泰证券股份有限公司",
+        "url": "2308171529103153.html"
+      },
+      {
+        "fundName": "衍复信鸿小市值指数增强3期私募证券投资基金",
+        "fundNo": "SZT412",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692230400000,
+        "establishDate": 1691971200000,
+        "mandatorName": "国信证券股份有限公司",
+        "url": "2308171529103926.html"
+      },
+      {
+        "fundName": "衍复金享灵活对冲一号1期私募证券投资基金",
+        "fundNo": "SB5799",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1692144000000,
+        "establishDate": 1691712000000,
+        "mandatorName": "国金证券股份有限公司",
+        "url": "2308161825102060.html"
+      },
+      {
+        "fundName": "衍复金享小市值指增一号1期私募证券投资基金",
+        "fundNo": "SB2867",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1691452800000,
+        "establishDate": 1690761600000,
+        "mandatorName": "国金证券股份有限公司",
+        "url": "2308081730102817.html"
+      },
+      {
+        "fundName": "衍复专享小市值指数增强2号私募证券投资基金",
+        "fundNo": "SB3223",
+        "workingState": "正在运作",
+        "managerType": "受托管理",
+        "putOnRecordDate": 1691366400000,
+        "establishDate": 1690416000000,
+        "mandatorName": "中信证券股份有限公司",
+        "url": "2308070856109641.html"
+      }
+    ]
+  },
+  "yanfu_site": {
+    "source": "yanfu_official_consult",
+    "url": "https://yanfuinvestments.com/consult",
+    "announcementCount": 10,
+    "announcements": [
+      {
+        "date": "2024-07-12",
+        "title": "关于上海衍复投资管理有限公司微信公众号名称的公告"
+      },
+      {
+        "date": "2024-03-25",
+        "title": "关于提示投资者谨慎识别冒用我司名义编造“长期计划项目”以及伪造《通知函》及《邀请函》等文件的公告"
+      },
+      {
+        "date": "2024-03-22",
+        "title": "关于提示投资者谨慎识别冒用我司名义举办投资者见面会的公告"
+      },
+      {
+        "date": "2024-03-07",
+        "title": "关于谨防冒用公司名义实施违法活动的提示"
+      },
+      {
+        "date": "2022-08-09",
+        "title": "搬迁公告"
+      },
+      {
+        "date": "2024-07-12",
+        "title": "关于上海衍复投资管理有限公司微信公众号名称的公告"
+      },
+      {
+        "date": "2024-03-25",
+        "title": "关于提示投资者谨慎识别冒用我司名义编造“长期计划项目”以及伪造《通知函》及《邀请函》等文件的公告"
+      },
+      {
+        "date": "2024-03-22",
+        "title": "关于提示投资者谨慎识别冒用我司名义举办投资者见面会的公告"
+      },
+      {
+        "date": "2024-03-07",
+        "title": "关于谨防冒用公司名义实施违法活动的提示"
+      },
+      {
+        "date": "2022-08-09",
+        "title": "搬迁公告"
+      }
+    ]
+  },
+  "eastmoney": {
+    "skipped": true,
+    "hint": "使用 --eastmoney 开启示例请求（易失败）"
+  }
+}
